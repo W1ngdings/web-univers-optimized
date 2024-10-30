@@ -31,14 +31,14 @@
       overflow: hidden;
     }
     header {
-      background-image: url(../images/web-univers-background.png);
+      background-image: url(../images/web-univers-background.webp);
       background-size: 100%;
       background-position: left;
       background-repeat: no-repeat;
     }
     body {
       background-color: #f7f7ff;
-      background-image: url(../images/web-univers-background.png);
+      background-image: url(../images/web-univers-background.webp);
       background-size: cover;
       background-repeat: no-repeat;
   

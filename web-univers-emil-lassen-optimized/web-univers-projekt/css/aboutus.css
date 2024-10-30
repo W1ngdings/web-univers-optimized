@@ -9,7 +9,7 @@
     }
     body {
       background-color: #f7f7ff;
-      background-image: url(../images/web-univers-background.png);
+      background-image: url(../images/web-univers-background.webp);
       background-size: cover;
       background-size: 350vh;
       background-repeat: no-repeat;
@@ -36,7 +36,7 @@
       overflow: hidden;
     }
     header {
-      background-image: url(../images/web-univers-background.png);
+      background-image: url(../images/web-univers-background.webp);
       background-size: 100%;
       background-position: center;
       background-repeat: no-repeat;
